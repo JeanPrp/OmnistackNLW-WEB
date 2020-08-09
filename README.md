@@ -1,3 +1,18 @@
+
+## Projeto Proffy versão web NLW
+
+
++ HTML, CSS, JS  para web
++ Conceitos básicos de React 
++ Conceito de Props e Rotas
++ Estilização 
++ Integração com Banco de dados SQlite 
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
